@@ -1,7 +1,6 @@
 # AI-Book-video-creator
 1.FLL COMPETITION
-TEAM MOVING MINDS
-*
+2.TEAM MOVING MINDS
 
 ------------------------------------
 
