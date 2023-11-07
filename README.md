@@ -1,8 +1,8 @@
 # AI-Book-video-creator
 FLL COMPETITION
-
-TEAM MOVING MINDS
-
+ΟΜΑΔΑ MOVING MINDS
+ΕΚΠΑΙΔΕΥΤΙΚΟ ΚΕΝΤΡΟ ROBOTONIO
+AI-Book-video-creator
 
 ------------------------------------
 
